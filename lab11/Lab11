@@ -1,0 +1,50 @@
+Cristian Ortiz
+Math 32 
+Lab 11
+11/13/2019
+
+FOR U = 120
+10000 Samples
+
+
+
+
+FOR H = 15
+10000 Samples 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOR M = .25 W/ 10,0000 Samples
+
+
+
+
+SUMMARY
+The results in each simulation actually do come close to my theoretical results. For U I calculated with ppois(120,120) resulted in rounded .52 and when testing with the R program with Mean = 120 and sample 10,000 I got .5244. For H, calculating with ppois(15,15) resulted in rounded .56, with the R program with mean = 15 and sample 10,0000 I got .5723.
+With M = .25, ppoise(.25,.25) resulted in .77 rounded and with the R program wth mean .25 and sample 10,000 I got .7765. 
+
